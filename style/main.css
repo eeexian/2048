@@ -350,13 +350,13 @@ hr {
     background: url(http://p1-news.yamedia.tw/MjYyNDI0NjVuZXdz/8885509192070f54.jpg);
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    color: rgb(0,0,0,0);
+    background: url(https://i.kfs.io/artist/global/30305,0v4/fit/300x300.jpg);
+    background-size: cover; }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
+    color: rgb(0,0,0,0);
+    background: url(https://s.yimg.com/uu/api/res/1.2/72vWO21bkYxut.aQzcHYHg--~B/aD01ODg7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/zh-Hant_TW/News/yahoofeature/20150515113919_vivic_441404.jpg);
+    background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
