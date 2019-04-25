@@ -346,8 +346,9 @@ hr {
     background: url(https://cdn.thestandnews.com/media/photos/cache/ng_jb83I_1200x0.png);
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    color: rgb(0,0,0,0);
+    background: url(http://p1-news.yamedia.tw/MjYyNDI0NjVuZXdz/8885509192070f54.jpg);
+    background-size: cover; }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     background: #f65e3b; }
