@@ -333,14 +333,17 @@ hr {
     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsIyQqFJA3BfrtGesXk3OEF339r-a36JeZCCaDqG3_6qK_DOV);
+    background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    color: rgb(0,0,0,0);
+    background: url(https://y.gtimg.cn/music/photo_new/T001R500x500M000001fNHEf1SFEFN.jpg);
+    background-size: cover;}
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    color: rgb(0,0,0,0);
+    background: url(https://cdn.thestandnews.com/media/photos/cache/ng_jb83I_1200x0.png);
+    background-size: cover; }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     background: #f67c5f; }
